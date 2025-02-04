@@ -3,3 +3,5 @@
 (b) The Scrum Master organizes and facilitates sprints, meetings, and standups. Handles all scrum related tasks. The product owner is the connection betweent the customer and the team. They set the direction for how things should go based on customer requirements, and handle release management.
 
 (c) 1) Sprint Planning: Figure out what to do in the sprint and move stories from backlog into sprint. Assign story points and start sprint. 2) Standup: Discuss work completed. Discuss and blockers on tasks. 3) Sprint Retrospective: Discuss what work has been completed and move incomplete work to backlog. Discuss what went well/poorly.
+
+(d) Epic: A big assignment that can be broken up into smaller assignments. Story: A requirement int he project that is software based that can be expressed in a couple sentences. Bug: A small problem that impedes progress or functionality of the program. Task: A small piece of work that needs to be completed.
