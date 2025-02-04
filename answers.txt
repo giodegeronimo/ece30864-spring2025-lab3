@@ -1,1 +1,3 @@
 (a) Pros: Allows requirements to not be fixed. Involves sontant customer collaboration. Cons: Can take some time to learn, so new employees may have difficulty integrating themselves. If the customer is difficult to work with, a lot of time can be wasted creating and removing features.
+
+(b) The Scrum Master organizes and facilitates sprints, meetings, and standups. Handles all scrum related tasks. The product owner is the connection betweent the customer and the team. They set the direction for how things should go based on customer requirements, and handle release management.
