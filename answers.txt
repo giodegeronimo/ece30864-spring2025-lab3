@@ -1,1 +1,1 @@
-
+(a) Pros: Allows requirements to not be fixed. Involves sontant customer collaboration. Cons: Can take some time to learn, so new employees may have difficulty integrating themselves. If the customer is difficult to work with, a lot of time can be wasted creating and removing features.
